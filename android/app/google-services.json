@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "63398519131",
+    "firebase_url": "https://home-automation-502e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "home-automation-502e4",
+    "storage_bucket": "home-automation-502e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63398519131:android:450096a3353ecab1f2ba7e",
+        "android_client_info": {
+          "package_name": "com.example.home_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfv_j-fEb7rz8106CYlSzF395SEjK_I_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
